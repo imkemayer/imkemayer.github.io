@@ -63,8 +63,8 @@ date_format = "January 2006"
   company = "Foodora GmbH"
   company_url = ""
   location = "Berlin"
-  date_start = "2016-07"
-  date_end = "2016-08"
+  date_start = "2016-07-01"
+  date_end = "2016-08-31"
   description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams."""
 
 +++

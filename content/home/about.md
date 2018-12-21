@@ -20,17 +20,17 @@ weight = 5
 
 [[education.courses]]
   course = "MSc in Applied Mathematics (MVA)"
-  institution = "Ecole Normale Sup\'erieure Paris-Saclay"
+  institution = "Ecole Normale Supérieure Paris-Saclay"
   year = 2018
 
 [[education.courses]]
   course = "BSc in Applied Mathematics"
-  institution = "Sorbonne Universit\'e (former Universit\'e Pierre et Marie Curie)"
+  institution = "Sorbonne Université (former Université Pierre et Marie Curie)"
   year = 2016
 
 [[education.courses]]
   course = "BSc in Computer Science"
-  institution = "Sorbonne Universit\'e (former Universit\'e Pierre et Marie Curie)"
+  institution = "Sorbonne Université (former Université Pierre et Marie Curie)"
   year = 2016
  
 +++

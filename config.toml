@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = ["imke.mayer@ehess.fr", "imke.mayer@polytechnique.edu"]
-  address = ["Room A4-29, CAMS, EHESS, 54 boulevard Raspail, 75006 Paris", "Room 20.15, CMAP, École Polytechnique"]
+  address = ["Room A4-29, CAMS, EHESS, 54 boulevard Raspail, 75006 Paris" , "Room 20.15, CMAP, Ecole Polytechnique"]
   # office_hours = """
   # Monday 10:00 to 13:00\\
   # Wednesday 09:00 to 10:00\\

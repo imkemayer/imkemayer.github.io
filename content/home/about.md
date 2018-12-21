@@ -19,8 +19,8 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "MSc in Applied Mathematics (MVA)"
-  institution = "Ecole Normale Supérieure Paris-Saclay"
+  course = "MSc in Applied Mathematics (Mathématiques - Vision - Apprentissage)"
+  institution = "École Normale Supérieure Paris-Saclay"
   year = 2018
 
 [[education.courses]]

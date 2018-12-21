@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Center for Imaging Science, Johns Hopkins University"
   company_url = "http://vision.jhu.edu"
   location = "Baltimore"
-  date_start = "2018-04"
-  date_end = "2018-09"
+  date_start = "2018-04-10"
+  date_end = "2018-09-10"
   description = """
   * Topic: Global optimality of sparse dictionary learning (subject of my master's thesis).
   * Advisor: René Vidal
@@ -42,8 +42,8 @@ date_format = "January 2006"
   company = "LPSM, Sorbonne Université (former LSTA, Université Pierre et Marie Curie)"
   company_url = ""
   location = "Paris"
-  date_start = "2017-06"
-  date_end = "2017-07"
+  date_start = "2017-06-01"
+  date_end = "2017-07-31"
   description = """
   * Topic: Control of False Discovery Rate in Regression Models.
   * Advisors: Claire Boyer and Maxime Sangnier
@@ -54,8 +54,8 @@ date_format = "January 2006"
   company = "Foodora GmbH"
   company_url = ""
   location = "Berlin"
-  date_start = "2016-09"
-  date_end = "2017-01"
+  date_start = "2016-09-15"
+  date_end = "2017-01-31"
   description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams."""
 
 [[experience]]

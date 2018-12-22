@@ -42,7 +42,7 @@ filter_default = 0
 #
 [[filter]]
   name = "R-miss-tastic"
-  tag = "Missing values"
+  tag = "missing-values"
 #
 # [[filter]]
 #   name = "Other"

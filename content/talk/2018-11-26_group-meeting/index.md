@@ -48,7 +48,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = "/static/slides/2018-11-26_GroupMeeting_Slides.pdf"
+url_slides = "static/slides/2018-11-26_GroupMeeting_Slides.pdf"
 url_video = ""
 url_code = ""
 

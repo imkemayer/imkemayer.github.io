@@ -48,7 +48,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = "static/slides/2018-11-26_GroupMeeting_Slides.pdf"
+url_slides = "slides/2018-11-26_GroupMeeting_Slides.pdf"
 url_video = ""
 url_code = ""
 
@@ -65,7 +65,3 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}

@@ -13,7 +13,7 @@ summary = "A unified platform on missing values, founded by the R Consortium."
 tags = ["missing-values", "missing-data"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ["https://rmisstastic.netlify.com"]
+external_link = "https://rmisstastic.netlify.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

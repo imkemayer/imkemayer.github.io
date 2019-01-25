@@ -35,6 +35,6 @@ weight = 5
  
 +++
 
-# Biography
+# Introduction
 
-In October 2018 I have started a position as PhD student in statistics and applied maths at EHESS and École Polytechnique under the supervision of <a href="http://www.lps.ens.fr/~nadal/" target="_blank">Jean-Pierre Nadal</a> and <a href="http://juliejosse.com" target="_blank">Julie Josse</a>. My current research focuses on the analysis of heterogeneous data with missing values and on causal inference with missing values. I develop methods and models which will be applied on a French database on severely traumatized patients, <a href="http://www.traumabase.eu/en_US" target="_blank">Traumabase®</a>, to help answer questions related to traumatic brain injury. For this project I work closely with the anaesthesists Tobias Gauss and Jean-Denis Moyer, members of the Traumabase® Group.
+In October 2018 I have started a position as PhD student in statistics and applied maths at EHESS and École Polytechnique under the supervision of <a href="http://www.lps.ens.fr/~nadal/" target="_blank">Jean-Pierre Nadal</a> and <a href="http://juliejosse.com" target="_blank">Julie Josse</a>. My current research focuses on the analysis of heterogeneous data with missing values and on causal inference with missing values. I develop methods and models which will be applied on a French database on severely traumatized patients, <a href="http://www.traumabase.eu/en_US" target="_blank">Traumabase®</a>, to help answer questions related to traumatic brain injury. For this project I work closely with the anaesthesists <a href="https://www.researchgate.net/profile/Tobias_Gauss" target="_blank">Tobias Gauss</a> and Jean-Denis Moyer, members of the Traumabase® Group.

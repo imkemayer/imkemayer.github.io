@@ -50,3 +50,5 @@ filter_default = 0
 
 +++
 
+<link rel="canonical" href="{{ config.extra.live_base_url }}{{ current_path }}">
+

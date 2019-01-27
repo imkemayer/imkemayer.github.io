@@ -40,7 +40,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Intern"
   company = "LPSM, Sorbonne Université (former LSTA, Université Pierre et Marie Curie)"
-  company_url = ""
+  company_url = "http://www.lpsm.paris/recherche/les-equipes/équipe-statistique/"
   location = "Paris"
   date_start = "2017-06-01"
   date_end = "2017-07-31"
@@ -52,7 +52,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Working Student"
   company = "Foodora GmbH"
-  company_url = ""
+  company_url = "https://www.foodora.com/about/"
   location = "Berlin"
   date_start = "2016-09-15"
   date_end = "2017-01-31"
@@ -61,10 +61,12 @@ date_format = "January 2006"
 [[experience]]
   title = "Data Science Intern"
   company = "Foodora GmbH"
-  company_url = ""
+  company_url = "https://www.foodora.com/about/"
   location = "Berlin"
   date_start = "2016-07-01"
   date_end = "2016-08-31"
   description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams."""
 
 +++
+
+<link rel="canonical" href="{{ config.extra.live_base_url }}{{ current_path }}">

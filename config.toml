@@ -8,6 +8,7 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://www.imkemayer.com/"
 
+
 # Title of your site
 title = "Imke Mayer"
 
@@ -47,6 +48,9 @@ enableGitInfo = false
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
   extensions = ["backslashLineBreak"]
+
+[extra]
+live_base_url = "https://www.imkemayer.com"
 
 [params]
   # AUTHOR SETUP

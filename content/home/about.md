@@ -36,7 +36,6 @@ weight = 5
 +++
 
 <link rel="canonical" href="{{ config.extra.live_base_url }}{{ current_path }}">
-<meta name="google-site-verification" content="M_x9TpUVQdDlKth1ncuy8Kg8FUpAcxt58akqDT51VCo" />
 
 # Introduction
 

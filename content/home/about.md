@@ -35,7 +35,6 @@ weight = 5
  
 +++
 
-<link rel="canonical" href="{{ config.extra.live_base_url }}{{ current_path }}">
 
 # Introduction
 

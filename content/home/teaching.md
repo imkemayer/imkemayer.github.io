@@ -15,7 +15,6 @@ weight = 60
 
 +++
 
-<link rel="canonical" href="{{ config.extra.live_base_url }}{{ current_path }}">
 
 
 This is an example of using the *custom* widget to create your own homepage section.

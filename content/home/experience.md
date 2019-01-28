@@ -68,5 +68,3 @@ date_format = "January 2006"
   description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams."""
 
 +++
-
-<link rel="canonical" href="{{ config.extra.live_base_url }}{{ current_path }}">

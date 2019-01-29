@@ -1,14 +1,11 @@
 +++
 title = "Introduction to Causal Inference"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
-startDate = 2018-11-26T10:00:00
-location.@type = "Place"
-location.name = "CMAP, Palaiseau, France"
+date = 2017-01-01T00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-26T10:00:00
+time_start = 2018-11-26T10:00
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -68,3 +65,13 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+<script>
+"location": {
+  "@type": "Place",
+  "name": "CMAP, Palaiseau, France"
+}
+
+"startDate": "2018-11-26T10:00"
+</script>
+

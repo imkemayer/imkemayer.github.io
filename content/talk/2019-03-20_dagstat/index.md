@@ -1,9 +1,6 @@
 +++
 title = "(Poster) Causal Inference with Missing Values: Treatment Effect Estimation of Tranexamic Acid on Mortality for Traumatic Brain Injury Patients"
 date = 2019-01-08T00:00:00  # Schedule page publish date.
-startDate = 2019-03-20T18:20:00
-location.@type = "Place"
-location.name = "LMU, Munich, Germany"
 draft = false
 
 # Talk start and end times.
@@ -68,3 +65,12 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+<script>
+"location": {
+  "@type": "Place",
+  "name": "LMU, Munich, Germany"
+}
+
+"startDate": "2019-03-20T18:20"
+</script>

@@ -72,6 +72,6 @@ math = false
   "name": "CMAP, Palaiseau, France"
 }
 
-"startDate": "2018-12-13T10:00"
+"startDate": "2018-12-13T10:00:00"
 </script>
 

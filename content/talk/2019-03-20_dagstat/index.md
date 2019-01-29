@@ -72,5 +72,5 @@ math = false
   "name": "LMU, Munich, Germany"
 }
 
-"startDate": "2019-03-20T18:20"
+"startDate": "2019-03-20T18:20:00"
 </script>

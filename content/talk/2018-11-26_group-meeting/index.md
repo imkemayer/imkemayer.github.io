@@ -1,9 +1,9 @@
 +++
 title = "Introduction to Causal Inference"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
-startDate = 2018-11-26
-location.@type = Place
-location.name = CMAP, Palaiseau, France
+startDate = 2018-11-26T10:00:00
+location.@type = "Place"
+location.name = "CMAP, Palaiseau, France"
 draft = false
 
 # Talk start and end times.

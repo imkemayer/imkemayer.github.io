@@ -23,7 +23,7 @@ event = "DAGStat 2019"
 event_url = "https://www.dagstat2019.statistik.uni-muenchen.de/index.html"
 
 # Location of event.
-location = "Munich, Germany"
+location = "LMU, Munich, Germany"
 
 # Is this a selected talk? (true/false)
 selected = true

@@ -23,7 +23,7 @@ event = "Julie Josse's students group meeting"
 event_url = "http://juliejosse.com"
 
 # Location of event.
-location = "Palaiseau, France"
+location = "CMAP, Palaiseau, France"
 
 # Is this a selected talk? (true/false)
 selected = false

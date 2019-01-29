@@ -23,7 +23,7 @@ event = "CMAP Machine Learning Journal Club"
 event_url = "http://www.cmap.polytechnique.fr/~zoltan.szabo/journal_club.html"
 
 # Location of event.
-location = "Palaiseau, France"
+location = "CMAP, Palaiseau, France"
 
 # Is this a selected talk? (true/false)
 selected = false

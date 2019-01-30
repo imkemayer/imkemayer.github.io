@@ -6,7 +6,7 @@ title = "R-miss-tastic"
 date = 2018-12-22T00:00:00
 
 # Project summary to display on homepage.
-summary = "A unified platform on missing values, founded by the R Consortium. Have a look at <a href="https://www.njtierney.com/post/2019/01/29/intro-r-miss-tastic/" target="_blank">Nick Tierney's blog post</a> introducing this project."
+summary = "A unified platform on missing values, founded by the R Consortium. Have a look at <a href='https://www.njtierney.com/post/2019/01/29/intro-r-miss-tastic/' target='_blank'>Nick Tierney's blog post</a> introducing this project."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

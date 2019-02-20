@@ -44,9 +44,8 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-Jointly initiated by Julie Josse, Jean-Pierre Nadal, the <a href="http://www.traumabase.eu/en_US/projects/in-progress" target="_blank">Traumabase group</a>, APHP (Public Assistance – Hospitals of Paris) especially Tobias Gauss and Sophie Hamada in 2016.
-
-Since January 2019, this interdisciplinary project is supported as well by <italic>Data4Good</italic> initiative of <a href="https://www.capgemini.com/service/invent/" target="_blank">CapGemini Invent</a>.
+<p align="justify">This interdisciplinary project has been jointly initiated by Julie Josse, Jean-Pierre Nadal, the <a href="http://www.traumabase.eu/en_US/projects/in-progress" target="_blank">Traumabase group</a>, APHP (Public Assistance – Hospitals of Paris) especially Tobias Gauss and Sophie Hamada in 2016. I have joined this project in the context of my PhD thesis in October 2018.<br>
+Since January 2019, the TraumaMatrix project is supported as well by the <italic>Data4Good</italic> initiative of <a href="https://www.capgemini.com/service/invent/" target="_blank">CapGemini Invent</a>.</p>
 
 <h3>Context</h3>
 <p align="justify">Major trauma is defined as any injury that endangers the life or the functional integrity of a person. The Global Burden of Disease working group of the WHO has recently shown that major trauma in its various manifestations, from road traffic accidents, interpersonal violence, self-harm to falls, remains a public health challenge and major source of mortality and handicap around the world. Hopefully, it has also been shown that management of major trauma based on standardized and protocol based care improves prognosis of patients especially for the two main causes of death in major trauma i.e., hemorrhage and traumatic brain injury.  The classic pathway of a traumatized patient takes place in several stages : from the site of the accident where the patient is taken care of by the ambulance to the transfer to an intensive care unit (ICU) for immediate interventions and finally to the comprehensive care at the hospital. To be effective, patient management protocols require adjustments to the individual patient and clinical context on one hand and to the organizational context and trauma system on the other hand.

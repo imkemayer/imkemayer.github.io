@@ -48,7 +48,7 @@ tags = ["causal-inference", "missing-values"]
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "slides/2019-03_conference_poster.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""

@@ -359,6 +359,11 @@ live_base_url = "https://www.imkemayer.com"
   category = "categories"
   publication_type = "publication_types"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/

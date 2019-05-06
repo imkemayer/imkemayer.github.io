@@ -18,11 +18,11 @@ We assess the performance of our estimators on a large prospective database cont
 abstract_short = "We propose two doubly robust average treatment effect estimators that are based on different assumptions about the data generating process. We compare them to previously proposed methods which are complete case ATE estimators applied on imputed data, i.e. on complete data obtained by replacing every missing value by at least one plausible one. We assess the performance of our estimators on a large prognostic database containing detailed information about over 20,000 severely traumatized patients in France."
 
 # Name of event and optional event URL.
-event = "51es journ'{e}es de Statistique de la SFdS"
+event = "51es journées de Statistique de la SFdS"
 event_url = "http://www.jds2019.sfds.asso.fr/"
 
 # Location of event.
-location = "Universit'{e} de Lorraine, Nancy, France"
+location = "Université de Lorraine, Nancy, France"
 
 # Is this a selected talk? (true/false)
 selected = true

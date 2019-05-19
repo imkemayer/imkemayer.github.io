@@ -1,6 +1,6 @@
 +++
 title = "Causal Inference with critical care data"
-date = 2019-05-28T00:00:00  # Schedule page publish date.
+date = 2019-05-19T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.

@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_end = "2018-09-10"
   description = """
   * Topic: Global optimality of sparse dictionary learning (subject of my master's thesis).
-  * Advisor: René Vidal.
+  * Advisor: [René Vidal](http://www.cis.jhu.edu/~rvidal/).
   """
 
 # #   Responsibilities include:
@@ -46,7 +46,7 @@ date_format = "January 2006"
   date_end = "2017-07-31"
   description = """
   * Topic: Control of False Discovery Rate in Regression Models.
-  * Advisors: Claire Boyer and Maxime Sangnier.
+  * Advisors: [Claire Boyer](http://www.lpsm.paris/pageperso/boyer/) and [Maxime Sangnier](http://www.lpsm.paris/pageperso/sangnier/index.html).
   """
 
 [[experience]]

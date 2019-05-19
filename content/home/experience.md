@@ -56,7 +56,7 @@ date_format = "January 2006"
   location = "Berlin"
   date_start = "2016-09-15"
   date_end = "2017-01-31"
-  description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams."""
+  description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams. Supervisor: [Tobias Schmidt](https://scholar.google.com/citations?user=dxxKepIAAAAJ&hl=en)"""
 
 [[experience]]
   title = "Data Science Intern"
@@ -65,6 +65,6 @@ date_format = "January 2006"
   location = "Berlin"
   date_start = "2016-07-01"
   date_end = "2016-08-31"
-  description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams."""
+  description = """Data analyses, mainly based on Google Analytics, for Business Intelligence and Global Logistics Operations Teams. Supervisor: [Tobias Schmidt](https://scholar.google.com/citations?user=dxxKepIAAAAJ&hl=en)"""
 
 +++

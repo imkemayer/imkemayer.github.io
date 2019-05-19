@@ -24,7 +24,7 @@ event_url = "https://www.dagstat2019.statistik.uni-muenchen.de/index.html"
 location = "LMU, Munich, Germany"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

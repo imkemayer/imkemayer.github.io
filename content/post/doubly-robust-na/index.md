@@ -37,6 +37,6 @@ summary = "Proposal of a new doubly robust treatment effect estimator handling m
 
 We propose two new doubly robust treatment effect estimators handling missing values in the confounders with proven consistency results. These estimators are based on recent results for likelihood-based methods and tree-based methods handling missing values.
 
-For a first version of our paper [click here](files/2019-06-25_DR-TreatmentEffect-WithMissingValues.pdf). *(First update: 2019-06-25, last update: 2019-06-25.)* 
+For a first version of our paper [click here](2019-06-25_DR-TreatmentEffect-WithMissingValues.pdf). *(First update: 2019-06-25, last update: 2019-06-25.)* 
 
-And a [poster](files/2019-06-25_DS3_poster.pdf) presented at the [Data Science Summer School 2019](https://www.ds3-datascience-polytechnique.fr).
+And a [poster](2019-06-25_DS3_poster.pdf) presented at the [Data Science Summer School 2019](https://www.ds3-datascience-polytechnique.fr).

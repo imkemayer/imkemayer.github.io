@@ -2,8 +2,8 @@
 title = "Paper: Doubly robust treatment effect estimation with incomplete confounders"
 subtitle = "Consistency results for treatment effect estimation with missing values."
 
-date = 2019-06-25T18:00:00
-lastmod = 2019-06-25T18:00:00
+date = 2019-06-25T00:00:00
+lastmod = 2019-06-25T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -2,7 +2,7 @@
 title = "Paper: Doubly robust treatment effect estimation with incomplete confounders"
 subtitle = ""
 
-date = 2019-06-25T19:00:00
+date = 2019-06-25T18:00:00
 lastmod = 2019-06-25T19:00:00
 draft = false
 

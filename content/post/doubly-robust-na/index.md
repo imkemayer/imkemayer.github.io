@@ -1,9 +1,9 @@
 +++
 title = "Paper: Doubly robust treatment effect estimation with incomplete confounders"
-subtitle = ""
+subtitle = "Consistency results for treatment effect estimation with missing values."
 
 date = 2019-06-25T18:00:00
-lastmod = 2019-06-25T19:00:00
+lastmod = 2019-06-25T18:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -38,3 +38,5 @@ summary = "Proposal of a new doubly robust treatment effect estimator handling m
 We propose two new doubly robust treatment effect estimators handling missing values in the confounders with proven consistency results. These estimators are based on recent results for likelihood-based methods and tree-based methods handling missing values.
 
 For a first version of our paper [click here](files/2019-06-25_DR-TreatmentEffect-WithMissingValues.pdf). *(First update: 2019-06-25, last update: 2019-06-25.)* 
+
+And a [poster](files/2019-06-25_DS3_poster.pdf) presented at the [Data Science Summer School 2019](https://www.ds3-datascience-polytechnique.fr).

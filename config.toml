@@ -219,7 +219,7 @@ live_base_url = "https://www.imkemayer.com"
   [params.publications]
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    date_format = "January 2, 2006"
 
   # Configuration of project pages.
   [params.projects]
@@ -306,7 +306,7 @@ live_base_url = "https://www.imkemayer.com"
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications" # "#publications_selected"
   weight = 2
 
 [[menu.main]]

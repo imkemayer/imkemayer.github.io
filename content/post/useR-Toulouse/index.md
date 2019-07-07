@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Imke Mayer"]
 
-tags = ["R"]
+tags = ["R", "diversity"]
 summary = "This year, the Forwards taskforce of the R foundation awarded 25 conference R community members with a scholarship for members of underrepresented or historically marginalized groups in the R community."
 
 # Projects (optional).
@@ -18,7 +18,7 @@ summary = "This year, the Forwards taskforce of the R foundation awarded 25 conf
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+projects = ["r-forwards"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

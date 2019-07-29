@@ -5,9 +5,9 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-06-03T17:00:00
-startDate = 2019-06-03T17:00:00
-#time_end = 2030-06-01T15:00:00
+time_start = 2019-09-03T17:00:00
+startDate = 2019-09-03T17:00:00
+#time_end = 2030-09-03T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Imke Mayer", "Julie Josse", "Stefan Wager"]

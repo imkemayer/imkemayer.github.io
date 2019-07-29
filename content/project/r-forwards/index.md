@@ -10,7 +10,7 @@ summary = "R Foundation <a href='https://forwards.github.io' target='_blank'>tas
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["diversity", "r"]
+tags = ["diversity", "R"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://forwards.github.io"

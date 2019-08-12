@@ -44,5 +44,5 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-[csv](files/dlvm_5000_10_seed0_prop03_xcomp.csv)
+{{% staticref "files/dlvm_5000_10_seed0_prop03_xcomp.csv" "newtab" %}}test csv file{{% /staticref %}}
 

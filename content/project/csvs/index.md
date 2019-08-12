@@ -6,7 +6,7 @@ title = "CSV files"
 date = 2019-02-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "A decision support tool for critical care management."
+summary = "Test files."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,5 +44,5 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-<p align="justify">[csv](files/dlvm_5000_10_seed0_prop03_xcomp.csv)</p>
+[csv](files/dlvm_5000_10_seed0_prop03_xcomp.csv)
 

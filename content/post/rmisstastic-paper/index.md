@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Imke Mayer", "Julie Josse", "Nicholas Tierney", "Nathalie Vialaneix"]
 
-tags = ["R","missing-values"]
+tags = ["R", "missing-values", "missing-data"]
 summary = "Our new paper presents 'R-miss-tastic', a platform that aims to provide an overview of standard missing values problems, methods, how to handle them in analyses, and relevant implementations of methodologies. The objective is not only to collect, but also comprehensively organize materials, to create standard analysis workflows, and to unify the community."
 
 # Projects (optional).
@@ -18,7 +18,7 @@ summary = "Our new paper presents 'R-miss-tastic', a platform that aims to provi
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+projects = ["r-miss-tastic"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

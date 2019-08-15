@@ -1,10 +1,10 @@
 +++
-title = "Doubly robust treatment effect estimation with incomplete confounders"
-date = 2019-06-28T00:00:00
+title = "R-miss-tastic: a unified platform for missing values methods and workflows"
+date = 2019-08-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Imke Mayer", "Julie Josse", "Stefan Wager"]
+authors = ["Imke Mayer", "Julie Josse", "Nicholas Tierney", "Nathalie Vialaneix"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication_types = ["0"]
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "In healthcare and social sciences research, prospective observational studies are frequent, relatively easily put in place (compared to experimental randomized trial studies for instance) and can allow for different kinds of posterior analyses such as causal inferences. Average treatment effect (ATE) estimation for instance is possible through the use of propensity scores which allow to correct for treatment assignment biases in the non-randomized study design. However, a major caveat of large observational studies is their complexity and incompleteness: the covariates are often taken at different levels and stages, they can be heterogeneous – categorical, discrete, continuous – and almost inevitably contain missing values. The problem of missing values in causal inference has long been ignored and only recently gained some attention due to the non-negligible impacts in terms of bias induced by complete case analyses and misspecified imputation models. We discuss conditions under which causal inference can be possible despite missing confounder values, namely unconfoundedness on the observed values; we propose two alternative ATE estimators which directly account for the missing values, the first is built on logistic-linear specification and observed likelihood, appropriate for data missing at random, while the second uses semi-parametric estimation based on random forests with the great advantage of handling data missing not at random. We compare these two estimators to different methods proposed in the past to deal with missing confounder values. We assess the performance of our estimators on a large prospective database containing detailed information about over 20,000 severely traumatized patients in France. Using the proposed ATE estimators and this database we study the effect on mortality of tranexamic acid administration to patients with traumatic brain injury in the context of critical care management."
+abstract = "Missing values are unavoidable when working with data. Their occurrence is exacerbated as more data from different sources become available. However, most statistical models and visualization methods require complete data, and improper handling of missing data results in information loss, or biased analyses. Since the seminal work of Rubin (1976), there has been a burgeoning literature on missing values with heterogeneous aims and motivations. This has resulted in the development of various methods, formalizations, and tools (including a large number of R packages). However, for practitioners, it is challenging to decide which method is most suited for their problem, partially because handling missing data is still not a topic systematically covered in statistics or data science curricula. To help address this challenge, we have launched a unified platform: 'R-miss-tastic', which aims to provide an overview of standard missing values problems, methods, how to handle them in analyses, and relevant implementations of methodologies. The objective is not only to collect, but also comprehensively organize materials, to create standard analysis workflows, and to unify the community. These overviews are suited for beginners, students, more advanced analysts and researchers."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -34,7 +34,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["r-miss-tastic"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -46,17 +46,17 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["missing-values", "R"]
 
 # Links (optional).
-url_pdf = "papers/2019-06-25_DR-TreatmentEffect-WithMissingValues.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/1908.04822"
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://rmisstastic.netlify.com"
 url_slides = ""
 url_video = ""
-url_poster = "posters/2019-06-25_DS3_poster.pdf"
+url_poster = ""
 url_source = ""
 
 # Custom links (optional).

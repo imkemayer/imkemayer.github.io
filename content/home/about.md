@@ -13,7 +13,7 @@ weight = 5
     "Causal Inference",
     "Missing values",
     "Machine Learning",
-    "Biostatistics"
+    "Applications of statistics"
   ]
 
 # List your qualifications (such as academic degrees).

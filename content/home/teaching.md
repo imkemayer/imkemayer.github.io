@@ -3,11 +3,11 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
-date = 2016-04-20T00:00:00
+active = true
+date = 2019-09-10T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -16,7 +16,13 @@ weight = 60
 +++
 
 
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+<p><h3>2019-2020</h3></p>
+<ul class="list-group" id="teaching-list-1">
+<li class="list-group-item"> <b>MAP535</b> <small>(École Polytechnique, 3ème année/Master 1, Applied mathematics, <i>Regression</i>)</small>.<br>Teaching assistant (tutorials and practical sessions).</li>
+</ul>
+</br>
+<p><h3>2018-2019</h3></p>
+<ul class="list-group" id="teaching-list-1">
+<li class="list-group-item"> <b>MAP573</b> <small>(École Polytechnique, 3ème année/Master 1, Applied mathematics, <i>R for statistics</i>)</small>.<br>Student research project advisor.</li>
+<li class="list-group-item"> <b>D4M Certificate</b> <small>(HEC, Master 2, Management, <i>Case study</i>)</small>.<br>Teaching assistant (practical sessions).</li>
+</ul>

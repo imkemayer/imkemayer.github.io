@@ -310,8 +310,8 @@ live_base_url = "https://www.imkemayer.com"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Talks"
+  url = "#talks"
   weight = 3
 
 [[menu.main]]
@@ -320,14 +320,14 @@ live_base_url = "https://www.imkemayer.com"
   weight = 4
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Posts"
+  url = "#posts"
   weight = 5
 
-# [[menu.main]]
-#   name = "Tutorials"
-#   url = "/tutorial/"
-#   weight = 6
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
@@ -336,11 +336,11 @@ live_base_url = "https://www.imkemayer.com"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
-    name = "CV"
-    #url = "files/CV_English_site_22-04-2019.pdf"
-    url = "#cv"
-    weight = 8
+# [[menu.main]]
+#    name = "CV"
+#    #url = "files/CV_English_site_22-04-2019.pdf"
+#    url = "#cv"
+#    weight = 8
 
 # Search.
 [params.search]

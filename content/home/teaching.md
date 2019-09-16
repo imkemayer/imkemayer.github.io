@@ -19,6 +19,7 @@ weight = 60
 <p><h3>2019-2020</h3></p>
 <ul class="list-group" id="teaching-list-1">
 <li class="list-group-item"> <b>MAP535</b> <small>(École Polytechnique, 3ème année/Master 1, Applied mathematics, <i>Regression</i>)</small>.<br>Teaching assistant (tutorials and practical sessions).</li>
+<li class="list-group-item"> <b>MAP573</b> <small>(École Polytechnique, 3ème année/Master 1, Applied mathematics, <i>Data Analysis and Unsupervised Learning</i>)</small>.<br>Student research project advisor.</li>
 </ul>
 </br>
 <p><h3>2018-2019</h3></p>

@@ -37,6 +37,6 @@ summary = "Proposal of consistent doubly robust treatment effect estimators hand
 
 We propose two consistent doubly robust treatment effect estimators handling missing attributes (missing values in the covariates). These estimators are based on recent results for likelihood-based methods and tree-based methods handling missing values.
 
-For a first version of our paper [click here](2019-09-08_DR-TreatmentEffect-WithMissingAttributes.pdf). *(First update: 2019-06-25, last update: 2019-09-08.)* 
+For a first version of our paper [click here](2019-10-23_DR-TreatmentEffect-WithMissingAttributes.pdf). *(First update: 2019-06-25, last update: 2019-10-23.)* 
 
 And a [poster](2019-06-25_DS3_poster.pdf) presented at the [Data Science Summer School 2019](https://www.ds3-datascience-polytechnique.fr).

@@ -16,4 +16,4 @@ weight = 60
 +++
 
 
-My CV is available in [English](files/CV_English_site_22-04-2019.pdf), [French](files/CV_Francais_site_22-04-2019.pdf) and [German](files/CV_Deutsch_site_22-04-2019.pdf).
+My CV is available in [English](files/CV_English_site_05-11-2019.pdf), [French](files/CV_Francais_site_22-04-2019.pdf) and [German](files/CV_Deutsch_site_22-04-2019.pdf).

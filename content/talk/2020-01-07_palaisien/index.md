@@ -13,11 +13,7 @@ startDate = 2020-01-07T17:00:00
 authors = ["Imke Mayer"]
 
 # Abstract and optional shortened version.
-abstract = "Inferring causal effects of a treatment or policy from observational data is central to many applications. However, state-of-the-art methods for causal inference seldom consider the possibility that covariates have missing values, which is ubiquitous in many real-world cases.
-<br>
-This work is motivated by assessing several medical questions about different treatments based on a large prospective database counting over 20,000 major trauma patients. This database is complex in the sense that it presents a multi-level and heterogeneous structure and precisely contains large fractions of missing values.
-<br>
-Missing data greatly complicate causal analyses as they either require strong assumptions about the missing data generating mechanism or an adapted unconfoundedness hypothesis. In this talk, I will first provide a classification of existing methods according to the main underlying assumptions, which are based either on variants of the classical unconfoundedness assumption or relying on assumptions about the mechanism that generates the missing values. Then, I will present two recent contributions on this topic: (1) an extension of doubly robust estimators that allows handling of missing attributes, and (2) an approach to causal inference based on variational autoencoders adapted to incomplete data."
+abstract = ""
 abstract_short = "TBA."
 
 # Name of event and optional event URL.

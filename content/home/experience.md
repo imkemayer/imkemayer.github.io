@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2020-03-01"
   date_end = "2020-06-30"
   description = """
-  * Topic: Global optimality of sparse dictionary learning (subject of my master's thesis).
+  * Topic: Heterogeneous treatment effect estimation.
   * Advisors: [Stefan Wager](https://web.stanford.edu/~swager/index.html), [Nigam Shah](https://med.stanford.edu/profiles/nigam-shah).
   * Fellowship: [FSMP](https://www.sciencesmaths-paris.fr/en/) pre-doctoral scientific research visit fellowship.
   """
@@ -49,7 +49,7 @@ date_format = "January 2006"
 # #   * Modelling
 # #   * Deploying
 # #   """
-# 
+#
 [[experience]]
   title = "Research Intern"
   company = "LPSM, Sorbonne Université (former LSTA, Université Pierre et Marie Curie)"

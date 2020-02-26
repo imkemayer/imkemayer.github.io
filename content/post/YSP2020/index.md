@@ -34,6 +34,10 @@ projects = ["sfds"]
 
 +++
 
+La huitième journée YSP aura lieu le vendredi 24 janvier 2020 dans l'amphithéâtre Hermite à l'IHP.
+
+Le but de cette journée est de permettre aux jeunes probabilistes et statisticien(ne)s de se rencontrer et partager dans un cadre amical. Elle leur permet également de découvrir l'étendue du monde de la recherche.
+
 Cette année les thèmes présentés ainsi que les orateurs sont les suivants : <br>
 <i>Risques financiers :</i> Thibaut Mastrolia, Paul Jusselin et Florian Bourgey,<br>
 <i>Modèles de population :</i> Hélène Leman, Anne Van Gorp et Arnaud Personne,<br>
@@ -41,5 +45,7 @@ Cette année les thèmes présentés ainsi que les orateurs sont les suivants : 
 <i>Machine learning interprétable :</i> Erwan Scornet, Imke Mayer et Clément Bénard.
 
 La version détaillée du programme est disponible <a href="https://www.sfds.asso.fr/sdoc-6704-2caa33b5adfd9bc174324d4cd1d3d6a8-programme_ysp_8_2.pdf">ici</a>!
+
+Organisateurs/Organisatrices : Margaux Brégère, Frédéric Logé-Munerel, Imke Mayer, Geneviève Robin.
 
 Plus d'information sont disponibles sur le <a href="https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/" target="_blank">site du groupe Jeunes</a>.

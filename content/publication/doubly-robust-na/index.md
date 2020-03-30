@@ -4,7 +4,7 @@ date = 2019-06-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Imke Mayer", "Stefan Wager", "Tobias Gauss", "Jean-Denis Moyer", "Julie Josse"]
+authors = ["Imke Mayer", "Erik Sverdrup", "Tobias Gauss", "Jean-Denis Moyer", "Stefan Wager", "Julie Josse"]
 
 # Publication type.
 # Legend:
@@ -31,7 +31,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -39,7 +39,7 @@ projects = []
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -70,7 +70,7 @@ doi = ""
 math = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "" #"Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"

@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "https://shahlab.stanford.edu/doku.php?id=start"
   location = "Stanford, CA, USA"
   date_start = "2020-03-01"
-  date_end = "2020-06-30"
+  date_end = "2020-03-17"
   description = """
   * Topic: Heterogeneous treatment effect estimation.
   * Advisors: [Stefan Wager](https://web.stanford.edu/~swager/index.html), [Nigam Shah](https://med.stanford.edu/profiles/nigam-shah).

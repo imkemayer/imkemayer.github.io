@@ -16,7 +16,7 @@ authors = ["Imke Mayer"]
 
 # Abstract and optional shortened version.
 abstract = "TBA."
-abstract_short = "TBA."
+abstract_short = "Postponed to 2021 due to COVID-19."
 
 # Name of event and optional event URL.
 event = "American Causal Inference Conference (ACIC)"

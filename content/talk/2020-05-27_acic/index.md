@@ -15,7 +15,7 @@ eventStatus = "https://schema.org/EventRescheduled"
 authors = ["Imke Mayer"]
 
 # Abstract and optional shortened version.
-abstract = "TBA."
+abstract = "Postponed to 2021 due to COVID-19."
 abstract_short = "Postponed to 2021 due to COVID-19."
 
 # Name of event and optional event URL.

@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Supplementary material", url = "papers/2019-10-23_DR-TreatmentEffect-WithMissingAttributes_supp.pdf"}]
+url_custom = [{name = "Supplementary material", url = "papers/2020-05-17_DR-TreatmentEffect-WithMissingAttributes_supp.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

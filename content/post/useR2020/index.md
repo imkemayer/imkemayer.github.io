@@ -3,7 +3,7 @@ title = "useR! 2020 in St-Louis and in Munich"
 subtitle = "Forwards taskforce invites diversity scholars and organizes Diversity, equality and inclusion breakout session."
 
 date = 2020-02-26T00:00:00
-lastmod = 2020-02-26T00:00:00
+lastmod = 2020-04-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -35,9 +35,11 @@ projects = ["r-forwards"]
 
 +++
 
+<i>Update from April 17th, 2020: Unfortunately, this year's useR! conference cannot take place as planned due to the COVID-19 pandemic. I really hope that all awarded diversity scholars will be able to attend next year's useR! conference. Until then: stay safe and healthy!</i>
+
 As a member of the Forwards initiative I am happy to have been part of the Diversity reviewing committee who awarded the diversity scholarship to several great R community members from underrepresented or historically marginalized groups who may not have been able to attend the conference for financial reasons.
 
-To meet and discuss with the diversity scholars and many other useR! newbies, with conference buddies and other Forwards members and to learn more about the Forwards initiative, stop by the Forwards session at useR! 2020 in St-Louis on Wednesday (July 8th). Details will be announced later. Organizers: Noa Tamir and Jesse Mostipak. 
+To meet and discuss with the diversity scholars and many other useR! newbies, with conference buddies and other Forwards members and to learn more about the Forwards initiative, stop by the Forwards session at useR! 2020 in St-Louis on Wednesday (July 8th). Details will be announced later. Organizers: Noa Tamir and Jesse Mostipak.
 
 Additionally, this year the Forwards taskforce will organize a <i>Diversity, Equality and Inclusion</i> (DEI) breakout session at the <a href="https://user2020muc.r-project.org/" target="_blank">European useR! hub in Munich</a>. Details will be announced later. Organizers: Damiano Cerasuolo, Kevin O'Brian and Jonathan Godfrey.
 

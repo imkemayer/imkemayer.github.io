@@ -15,7 +15,7 @@ authors = ["Imke Mayer", "Erik Sverdrup", "Tobias Gauss", "Jean-Denis Moyer", "S
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Annals of Applied Statistics*, AOAS."

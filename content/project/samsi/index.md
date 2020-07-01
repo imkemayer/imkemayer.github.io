@@ -6,8 +6,7 @@ title = "SAMSI - Missing data working group"
 date = 2020-02-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Data integration: combining multiple data sources for causal inference & Bridging theory and practice. <br>
-Combining trial and real-world evidence studies, probability and non-probability samples, etc."
+summary = "Data integration: combining multiple data sources for causal inference & Bridging theory and practice. <br>Combining trial and real-world evidence studies, probability and non-probability samples, etc."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

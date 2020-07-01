@@ -139,7 +139,7 @@ live_base_url = "https://www.imkemayer.com"
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -269,10 +269,10 @@ live_base_url = "https://www.imkemayer.com"
     icon_pack = "fas"
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-  # [[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fab"
-  #  link = "https://twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/imkemay"
 
   [[params.social]]
    icon = "google-scholar"

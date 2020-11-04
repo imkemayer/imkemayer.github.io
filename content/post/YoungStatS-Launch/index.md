@@ -10,7 +10,7 @@ draft = false
 authors = ["Imke Mayer"]
 
 tags = ["statistics", "communication"]
-summary = "The Young Statisticians Europe (YSE) launch the <i>YoungStatS</i> blog and webinar project to promote research in Statistics and Data Science! Visit our <a href="https://youngstats.github.io/" target="_blank">blog</a> or follow us on Twitter <a href="https://twitter.com/YoungStatS2?s=20" target="_blank">@YoungStatS2.</a>"
+summary = "The Young Statisticians Europe (YSE) launch the <i>YoungStatS</i> blog and webinar project to promote research in Statistics and Data Science! Visit our [blog](https://youngstats.github.io/) or follow us on Twitter [@YoungStatS2](https://twitter.com/YoungStatS2?s=20)"
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

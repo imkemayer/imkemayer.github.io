@@ -1,6 +1,6 @@
 +++
 title = "YoungStatS blog and webinar"
-subtitle = "Statistics blog and webinar by Young Statisticians Europe (YSE) supported by FenStatS to promote research in statistics and data science"
+subtitle = "Statistics blog and webinar by Young Statisticians Europe (YSE) supported by FenStatS to promote research in statistics and data science."
 
 date = 2020-10-20T00:00:00
 lastmod = 2020-10-20T00:00:00
@@ -27,7 +27,7 @@ projects = ["sfds"]
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Left"
 
   # Show image only in page previews?
   preview_only = false

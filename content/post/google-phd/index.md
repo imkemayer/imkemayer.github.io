@@ -1,5 +1,5 @@
 +++
-title = "I've been awarded a Google PhD fellowship in Machine Learning"
+title = "I've been awarded a Google PhD fellowship in Machine Learning."
 #subtitle = "Consistency results for treatment effect estimation with missing values."
 
 date = 2020-10-09T00:00:00
@@ -28,10 +28,10 @@ projects = []
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 +++
 

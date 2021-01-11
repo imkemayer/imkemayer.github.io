@@ -23,7 +23,7 @@ publication_short = "In *AOAS*"
 
 # Abstract and optional shortened version.
 abstract = "The problem of missing values in causal inference has long been ignored and only recently gained some attention due to the non-negligible impacts in terms of bias induced by complete case analyses and misspecified imputation models. We discuss different conditions under which causal inference can be possible despite missing attributes, we review existing solutions and propose a new approach to handle missing attributes in treatment effect estimation. We propose two average treatment effect (ATE) estimators, each in an inverse propensity weighting and a doubly robust form, which directly account for the missing values and show their consistency. The first is built on logistic-linear specification and observed likelihood, appropriate for data missing at random, while the second uses semi-parametric estimation based on random forests with the great advantage of handling data missing not at random. We compare these two estimators to different methods available in an extensive simulation study. We apply the estimators on a large prospective database counting about over 20,000 severely traumatized patients in France to study the effect on mortality of tranexamic acid administration among patients with traumatic brain injury in the context of critical care management."
-abstract_short = "*To appear in Annals of Applied Statistics*"
+abstract_short = "*In Annals of Applied Statistics*"
 
 # Is this a selected publication? (true/false)
 selected = true

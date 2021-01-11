@@ -1,5 +1,5 @@
 +++
-title = "Treatment effect estimation with missing attributes"
+title = "Causal inference for observational clinical data"
 date = 2020-03-10T00:00:00  # Schedule page publish date.
 draft = false
 

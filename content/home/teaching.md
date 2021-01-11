@@ -15,7 +15,10 @@ weight = 60
 
 +++
 
-
+<p><h3>2020-2021</h3></p>
+<ul class="list-group" id="teaching-list-1">
+<li class="list-group-item"> <b>Causal inference for observational clinical data</b> <small>(<a href="https://ai4healthschool.org/" target="_blank">AI4Health winter school</a>)</small>.<br>Tutorial on missing values and practical sessions.</li>
+</ul>
 <p><h3>2019-2020</h3></p>
 <ul class="list-group" id="teaching-list-1">
 <li class="list-group-item"> <b>MAP535</b> <small>(École Polytechnique, 3ème année/Master 1, Applied mathematics, <i>Regression</i>)</small>.<br>Teaching assistant (tutorials and practical sessions).</li>

@@ -23,7 +23,7 @@ publication = "Submitted."
 
 # Abstract and optional shortened version.
 abstract = "With increasing data availability, treatment causal effects can be evaluated across different dataset, both randomized trials and observational studies. Randomized trials isolate the effect of the treatment from that of unwanted (confounding) co-occuring effects. But they may be applied to limited populations, and thus lack external validity. On the opposite large observational samples are often more representative of the target population but can conflate confounding effects with the treatment of interest. In this paper, we review the growing literature on methods for causal inference on combined randomized trial and observational studies, striving for the best of both worlds. We first discuss identification and estimation methods that improve generalizability of randomized controlled trials (RCTs) using the representativeness of observational data. Classical estimators include weighting, difference between conditional outcome models, and double robust estimators. We then discuss methods that combining RCTs and observational data to improve the (conditional) average treatment effect estimation, handling possible unmeasured confounding in the observational data. We also connect and contrast works developed in both the potential outcomes framework and the structural causal models framework. Finally, we compare the main methods using a simulation study and real world data to analyse the effect of tranexamic acid on the mortality rate in major trauma patients. Code to implement many of the methods is provided."
-abstract_short = "*Submitted*"
+abstract_short = "*Submitted review* co-authored with <a href='https://benedictecolnet.github.io/' target='_blank'>Bénédicte Colnet</a> and many others."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -56,7 +56,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "posters/2019-06-25_DS3_poster.pdf"
+#url_poster = "posters/2019-06-25_DS3_poster.pdf"
 url_source = ""
 
 # Custom links (optional).

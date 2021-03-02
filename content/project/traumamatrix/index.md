@@ -18,7 +18,7 @@ external_link = ""
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -34,18 +34,18 @@ url_code = ""
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
   caption = ""
-  
+
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
 <p align="justify">This interdisciplinary project has been jointly initiated by Julie Josse, Jean-Pierre Nadal, the <a href="http://www.traumabase.eu/en_US/projects/in-progress" target="_blank">Traumabase Group</a>, APHP (Public Assistance - Hospitals of Paris) especially Tobias Gauss and Sophie Hamada in 2016. I have joined this project in the context of my PhD thesis in October 2018.<br>
-Since January 2019, the TrauMatrix project is supported as well by the <i>Data4Good</i> initiative of <a href="https://www.capgemini.com/service/invent/" target="_blank">CapGemini Invent</a>.<br>
+Since January 2019, the <a href="https://www.traumatrix.fr/" target="_blank">TrauMatrix project</a> is supported as well by the <i>Data4Good</i> initiative of <a href="https://www.capgemini.com/service/invent/" target="_blank">CapGemini Invent</a>.<br>
 Click <a href="https://www.capgemini.com/fr-fr/news/traumatrix-lintelligence-artificielle-au-service-des-soins-aux-patients-gravement-traumatises/" target="_blank">here for a short video</a> introducing the TrauMatrix project.</p>
 
 <h3>Context</h3>
@@ -69,5 +69,3 @@ Secondly, to the best of our knowledge, such a trauma information platform curre
 Thirdly, handling trauma patients requires complex and multiplayer strategies and the medical community recognizes the need to adopt and develop new methods to eliminate preventable deaths and disabilities. Thus, the community is willing to make use of a large amount of data for diagnosis, decision-support and treatment.<br>
 Lastly, from the statistical point of view, the proposal will develop innovative methods to tackle the important scientific challenge of handling highly heterogeneous data, with a large number of missing data. Indeed, despite the high quality of the Traumabase, since data collection is carried out by data technicians, there are many missing values that occur for different reasons (impossibility to make the measurement for technical issues or because of the patient’s state, no time to record the measure, etc.). Current data analysis tools and predictive models cannot be applied with restrictions. To develop innovative methods allowing exploitation of missing data, heterogenous coding and complex structure is an important scientific contribution. Any development in this field will be useful and applicable to a large array of scientific sectors.</br>
 The project provides thus a unique opportunity for trans-disciplinary research and collaboration bringing together mathematical, methodological, technological, cognitive and medical expertise to design innovative methodological solutions to respond to complex challenges and improve patient care.</p>
-
-

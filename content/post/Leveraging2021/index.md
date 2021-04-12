@@ -7,7 +7,7 @@ lastmod = 2021-04-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Imke Mayer"]
+authors = ["Michael Blum","Julie Josse","Raphael Porcher","Bénédicte Colnet", "Paul Roussel","Imke Mayer"]
 
 tags = ["causal-inference", "machine-learning", "observational-data"]
 summary = "We're excited to announce the Leveraging Observational Data with Machine Learning Virtual Workshop - brought to you by Michael Blum (<a href='https://owkin.com/' target='_blank'>Owkin</a>), Julie Josse (<a href='https://www.inria.fr/en' target='_blank'>Inria</a>), and Raphael Porcher (<a href='https://u-paris.fr/en/' target='_blank'>Université de Paris</a>) — on June 22nd and 23rd 2021! Register now (for free) & check out our keynote speakers: <a href='https://files.inria.fr/leveraging2021/'>Workshop website</a>."
@@ -35,7 +35,7 @@ projects = []
 
 +++
 
-We're pleased to share with you all the upcoming virtual workshop <b>Leveraging Observational Data with Machine Learning</b> taking place on June 22nd and 23rd, from 2 PM - 7 PM (UTC+2). Inria, Owkin, and Université de Paris have teamed up to bring you this workshop to bring together main actors working with observational or real-world data, and developing biostatistics and machine learning models for causal inference, as well as other novel approaches for integrating observational and real-world data into randomized control trials (RCTs). 
+We're pleased to share with you all the upcoming virtual workshop <b>Leveraging Observational Data with Machine Learning</b> taking place on June 22nd and 23rd, from 2 PM - 7 PM (UTC+2). Inria, Owkin, and Université de Paris have teamed up to bring you this workshop to bring together main actors working with observational or real-world data, and developing biostatistics and machine learning models for causal inference, as well as other novel approaches for integrating observational and real-world data into randomized control trials (RCTs).
 
 </br>
 Come hear keynote talks and engage in Q&A sessions with leaders, such as Elias Bareinbom, Bill Crown, Els Goetghebeur — view the speaker agenda and <a href="https://files.inria.fr/leveraging2021/">register for the free, virtual workshop here</a>.

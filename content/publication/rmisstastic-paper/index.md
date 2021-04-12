@@ -4,7 +4,7 @@ date = 2019-08-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Imke Mayer", "Julie Josse", "Nicholas Tierney", "Nathalie Vialaneix"]
+authors = ["Imke Mayer", "Aude Sportisse", "Julie Josse", "Nicholas Tierney", "Nathalie Vialaneix"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication_types = ["0"]
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "Missing values are unavoidable when working with data. Their occurrence is exacerbated as more data from different sources become available. However, most statistical models and visualization methods require complete data, and improper handling of missing data results in information loss, or biased analyses. Since the seminal work of Rubin (1976), there has been a burgeoning literature on missing values with heterogeneous aims and motivations. This has resulted in the development of various methods, formalizations, and tools (including a large number of R packages). However, for practitioners, it is challenging to decide which method is most suited for their problem, partially because handling missing data is still not a topic systematically covered in statistics or data science curricula. To help address this challenge, we have launched a unified platform: 'R-miss-tastic', which aims to provide an overview of standard missing values problems, methods, how to handle them in analyses, and relevant implementations of methodologies. The objective is not only to collect, but also comprehensively organize materials, to create standard analysis workflows, and to unify the community. These overviews are suited for beginners, students, more advanced analysts and researchers."
+abstract = "Missing values are unavoidable when working with data. Their occurrence is exacerbated as more data from different sources become available. However, most statistical models and visualization methods require complete data, and improper handling of missing data results in information loss, or biased analyses. Since the seminal work of Rubin (1976), a burgeoning literature on missing values has arisen, with heterogeneous aims and motivations. This led to the development of various methods, formalizations, and tools. For practitioners, it remains nevertheless challenging to decide which method is most suited for their problem, partially due to a lack of systematic covering of this topic in statistics or data science curricula. To help address this challenge, we have launched the R-miss-tastic platform, which aims to provide an overview of standard missing values problems, methods, and relevant implementations of methodologies. The objective of this work goes beyond comprehensively organizing materials, also covering the development of standardized analysis workflows, and providing a common reference for different communities. In this perspective, we have developed several pipelines in R and Python to allow for hands-on illustration of and recommendations on missing values handling in various statistical tasks such as estimation and prediction, while ensuring reproducibility of the analyses."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -31,7 +31,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["r-miss-tastic"]
@@ -39,7 +39,7 @@ projects = ["r-miss-tastic"]
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -70,7 +70,7 @@ doi = ""
 math = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "" #"Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"

@@ -10,7 +10,7 @@ draft = false
 authors = ["Michael Blum","Julie Josse","Raphael Porcher","Bénédicte Colnet", "Paul Roussel","Imke Mayer"]
 
 tags = ["causal-inference", "machine-learning", "observational-data"]
-summary = "We're excited to announce the Leveraging Observational Data with Machine Learning Virtual Workshop - brought to you by Michael Blum (<a href='https://owkin.com/' target='_blank'>Owkin</a>), Julie Josse (<a href='https://www.inria.fr/en' target='_blank'>Inria</a>), and Raphael Porcher (<a href='https://u-paris.fr/en/' target='_blank'>Université de Paris</a>) — on June 22nd and 23rd 2021! Register now (for free) & check out our keynote speakers: <a href='https://julierennes.github.io/LeveragingObsData/'>Workshop website</a>."
+summary = "We're excited to announce the Leveraging Observational Data with Machine Learning Virtual Workshop - brought to you by Michael Blum (<a href='https://owkin.com/' target='_blank'>Owkin</a>), Julie Josse (<a href='https://www.inria.fr/en' target='_blank'>Inria</a>), and Raphael Porcher (<a href='https://u-paris.fr/en/' target='_blank'>Université de Paris</a>) — on June 22nd and 23rd 2021! Register now (for free) & check out our great line-up of keynote speakers and panelists: <a href='https://julierennes.github.io/LeveragingObsData/'>Workshop website</a>."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

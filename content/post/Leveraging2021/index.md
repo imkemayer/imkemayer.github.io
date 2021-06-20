@@ -38,4 +38,4 @@ projects = []
 We're pleased to share with you all the upcoming virtual workshop <b>Leveraging Observational Data with Machine Learning</b> taking place on June 22nd and 23rd, from 2 PM - 7 PM (UTC+2). Inria, Owkin, and Université de Paris have teamed up to bring you this workshop to bring together main actors working with observational or real-world data, and developing biostatistics and machine learning models for causal inference, as well as other novel approaches for integrating observational and real-world data into randomized control trials (RCTs).
 
 </br>
-Come hear keynote talks and engage in Q&A sessions with leaders, such as Elias Bareinbom, Bill Crown, Els Goetghebeur — view the speaker agenda and <a href="https://files.inria.fr/leveraging2021/">register for the free, virtual workshop here</a>.
+Come hear keynote talks and engage in Q&A sessions with leaders, such as Elias Bareinbom, Bill Crown, Els Goetghebeur — view the speaker agenda and <a href="https://julierennes.github.io/LeveragingObsData/">register for the free, virtual workshop here</a>.

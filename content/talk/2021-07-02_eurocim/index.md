@@ -15,24 +15,8 @@ startDate = 2021-07-02T14:40:00
 authors = ["Imke Mayer"]
 
 # Abstract and optional shortened version.
-abstract = "The simultaneous availability of experimental and observational data to estimate a treatment effect is both an
-opportunity and a statistical challenge: Combining the information gathered from both data is a promising
-avenue to build upon the internal validity of randomized controlled trials (RCTs) and a greater external validity
-of observational data, but it raises methodological issues, especially due to different sampling designs inducing
-distributional shifts. We focus on the aim of transporting a causal effect estimated on an RCT onto a target
-population described by a set of covariates. Available methods such as inverse propensity weighting are not
-designed to handle missing values, which are however common in both data. In addition to coupling the
-assumptions for causal identifiability and for the missing values mechanism and to defining appropriate
-strategies, one has to consider the specific structure of the data with two sources and treatment and outcome
-only available in the RCT. We study different approaches and their underlying assumptions on the data generating processes and
-distribution of missing values and suggest several adapted methods, in particular multiple imputation
-strategies. These methods are assessed in an extensive simulation study and practical guidelines are provided for
-different scenarios. This work is motivated by the analysis of a large registry of over 20,000 major trauma patients and a multicentered RCT studying the effect of tranexamic acid administration on mortality."
-abstract_short = "The simultaneous availability of experimental and observational data to estimate a treatment effect is both an
-opportunity and a statistical challenge: Combining the information gathered from both data is a promising
-avenue to build upon the internal validity of randomized controlled trials (RCTs) and a greater external validity
-of observational data, but it raises methodological issues, especially due to different sampling designs inducing
-distributional shifts."
+abstract = "The simultaneous availability of experimental and observational data to estimate a treatment effect is both an opportunity and a statistical challenge: Combining the information gathered from both data is a promising avenue to build upon the internal validity of randomized controlled trials (RCTs) and a greater external validity of observational data, but it raises methodological issues, especially due to different sampling designs inducing distributional shifts. We focus on the aim of transporting a causal effect estimated on an RCT onto a target population described by a set of covariates. Available methods such as inverse propensity weighting are not designed to handle missing values, which are however common in both data. In addition to coupling the assumptions for causal identifiability and for the missing values mechanism and to defining appropriate strategies, one has to consider the specific structure of the data with two sources and treatment and outcome only available in the RCT. We study different approaches and their underlying assumptions on the data generating processes and distribution of missing values and suggest several adapted methods, in particular multiple imputation strategies. These methods are assessed in an extensive simulation study and practical guidelines are provided for different scenarios. This work is motivated by the analysis of a large registry of over 20,000 major trauma patients and a multicentered RCT studying the effect of tranexamic acid administration on mortality."
+abstract_short = "The simultaneous availability of experimental and observational data to estimate a treatment effect is both an opportunity and a statistical challenge: Combining the information gathered from both data is a promising avenue to build upon the internal validity of randomized controlled trials (RCTs) and a greater external validity of observational data, but it raises methodological issues, especially due to different sampling designs inducing distributional shifts."
 
 # Name of event and optional event URL.
 event = "European Causal Inference Meeting (EuroCIM)"
